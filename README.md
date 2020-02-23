@@ -1,2 +1,2 @@
 已停用<br>
-<a herf="https://guaong.github.io/">
+[新地址](https://guaong.github.io/)
